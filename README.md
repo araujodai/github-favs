@@ -24,7 +24,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## Projeto
 
-O GitHub Favs se trata de uma aplicação onde é possível buscar usuários do GitHub e adicioná-los a uma lista de favoritos, estando nessa lista é possível visualizar o número de repositórios e seguidores de cada usuário jusntamente com a foto de perfil, sendo possível também remover da lista algum usuário específico.
+O GitHub Favs se trata de uma aplicação onde é possível buscar usuários do GitHub e adicioná-los a uma lista de favoritos, estando nessa lista é possível visualizar o número de repositórios e seguidores de cada usuário juntamente com a foto de perfil, sendo possível também remover da lista algum usuário específico.
 
 ![githubfavs1](https://user-images.githubusercontent.com/101216880/197892300-0e8e077a-a073-4e44-beb1-8a04cfc76cef.gif)
 
